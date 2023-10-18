@@ -1,5 +1,5 @@
 # minecraft-server-status
-Get the status of a Minecraft server using MCApi
+Get the status of a Minecraft server using MCApi (Hosted for private server. Credit goes to Cindr)
 
 # Youtube Video Guide:
 [YouTube](https://youtu.be/yZlAMfPM_sA)
